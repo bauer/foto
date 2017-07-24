@@ -1,0 +1,1 @@
+#define GETTEXT_PACKAGE "UTF-8"
